@@ -1,0 +1,26 @@
+{
+  "name": "timmystats",
+  "version": "1.0.0",
+  "description": "Fortnite Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koerk/FortniteBot.git"
+  },
+  "keywords": [],
+  "author": "KorkNasty",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fortnite": "^4.3.2",
+    "express": "^4.16.4",
+    "node.js": "^0.0.0"
+  }
+}
