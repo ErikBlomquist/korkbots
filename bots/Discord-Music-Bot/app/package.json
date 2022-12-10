@@ -10,7 +10,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "discord.js": "^11.5.1",
     "node-opus": "^0.3.2",
     "ytdl-core": "^0.29.3",
